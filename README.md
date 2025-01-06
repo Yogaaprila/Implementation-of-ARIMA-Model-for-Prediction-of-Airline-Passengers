@@ -18,7 +18,7 @@ This dataset contain list of airline passenger from year 1949 to 1960.
 
 ## Tools
 1. Python Programming Language
-2. Google Collab
+2. Google Colab
 
 ---
 
